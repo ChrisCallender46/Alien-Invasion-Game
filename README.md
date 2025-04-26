@@ -1,0 +1,1 @@
+In this project, I created an alien invasion game, similar to Space Invaders, using PyGame. I created a spaceship that shoots bullets at alien spaceships. After defeating all aliens, the level increases and aliens speed up. I also created an AI bot that plays Space Invaders. I used Proximal Policy Optimization (PPO) which is a reinforcement learning algorithm.
